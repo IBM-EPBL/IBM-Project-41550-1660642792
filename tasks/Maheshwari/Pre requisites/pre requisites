@@ -1,1 +1,12 @@
+smart farmer IOT based farming application
 
+pre requistes :
+
+IBM Watson IoT Platform :
+           A fully managed, cloud-hosted service with capabilities for device registration, connectivity, control, rapid visualization and data storage.
+
+Node-RED service :
+          Image result for Node-RED Service.Node-RED is a programming tool for wiring together hardware devices, APIs and online services in new and interesting ways. It provides a browser-based editor that makes it easy to wire together flows using the wide range of nodes in the palette that can be deployed to its runtime in a single-click.
+
+Cloudant :
+          Cloudant is an IBM software product, which is primarily delivered as a cloud-based service. Cloudant is a non-relational, distributed database service of the same name. Cloudant is based on the Apache-backed CouchDB project and the open source BigCouch project.
