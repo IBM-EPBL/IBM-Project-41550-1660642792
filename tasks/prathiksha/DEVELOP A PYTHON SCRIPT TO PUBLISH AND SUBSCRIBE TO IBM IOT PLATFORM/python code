@@ -5,12 +5,12 @@ import datetime
 import random
 myConfig = {
     "identity": {
-        "orgId": "hj5fmy",
-        "typeId": "Device1",
-        "deviceId": "67890"
+        "orgId": "0ooi4r",
+        "typeId": "Device0",
+        "deviceId": "262605"
     },
     "auth": {
-        "token": "87654321"
+        "token": "098765432"
     }
 }
 client = wiotp.sdk.device.DeviceClient(config=myConfig, logHandlers=None)
